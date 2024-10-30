@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="vegetables_name">Nama Sayuran</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">Tentang</string>
+    <string name="data_nutrition">Nutrisi: Folat, Vitamin K, Serat, Glutation (antioksidan)</string>
+    <string name="data_benefits">Manfaat: Mendukung perkembangan janin, kesehatan tulang, dan detoksifikasi tubuh.</string>
+    <string name="desc_detail">Sayuran ini dikenal karena kandungan folatnya yang tinggi, yang sangat penting bagi ibu hamil dan mendukung perkembangan otak janin. Asparagus juga mengandung vitamin K, yang penting untuk kesehatan tulang dan pembekuan darah, serta antioksidan yang melawan radikal bebas. Selain itu, asparagus kaya akan serat yang dapat membantu menjaga kesehatan pencernaan dan mengatur gula darah. Penelitian menunjukkan bahwa konsumsi asparagus dapat membantu mengurangi peradangan dan memiliki efek positif pada kesehatan jantung."</string>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/asparagus</item>
+        <item>@drawable/bayam</item>
+        <item>@drawable/brokoli</item>
+        <item>@drawable/buncis</item>
+        <item>@drawable/kale</item>
+        <item>@drawable/kangkung</item>
+        <item>@drawable/kembangkol</item>
+        <item>@drawable/paprika</item>
+        <item>@drawable/tomat</item>
+        <item>@drawable/wortel</item>
+    </integer-array>
+</resources>
